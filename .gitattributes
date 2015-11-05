@@ -1,0 +1,10 @@
+# Explicitly declare text files we want to always be normalized and converted
+# to native line endings on checkout.
+*.java text
+*.properties text
+*.xml text
+*.json text
+*.pom text
+*.text text
+*.wsdl text
+*.MF text
